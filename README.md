@@ -1,5 +1,13 @@
 # DOCKER-basic-tutorial
 
+To run node js file : 
+
+1. npm install ----- install all dependencies
+
+2.npm run start ----- see package.json for start
+
+DOCKER installation and commands:
+
 https://nodejs.org/en/docs/guides/nodejs-docker-webapp/
 
 
